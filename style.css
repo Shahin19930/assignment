@@ -1,0 +1,52 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+
+}
+.top-two{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 70px ;
+
+
+
+}
+.ict>p{
+    font-size: 30px;
+
+}
+
+.icttechno>button{
+    font-size: 15px;
+    padding: 12px 15px;
+    border-radius: 3px;
+}
+
+.banner{
+
+    background-image: url(Hero-bg.png);
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    height: 500px;
+
+
+}
+
+.banner>p{
+
+font-size: 15px;
+padding: 15px;
+
+}
+.banner>a>button{
+    padding: 19px 60px;
+    margin: 22px auto;
+    font-size: 18px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 6px;
+}
