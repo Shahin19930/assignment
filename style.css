@@ -50,3 +50,106 @@ padding: 15px;
     color: aliceblue;
     border-radius: 6px;
 }
+
+.medel{
+background-color: #fafafb;
+width: 1250PX;
+border-radius: 6px;
+height: 500px;
+color: black;
+margin: 60px auto;
+text-align: center;
+}
+
+.medel>h1{
+
+    font-size: 30px;
+   padding-top: 100px;
+  padding-bottom: 18px;
+}
+
+.card{
+
+display: flex;
+justify-content: space-between;
+background-color: #FAFAFA;
+margin: 50px;
+}
+
+.content{
+
+    margin: 50px;
+    text-align: left;
+}
+
+.content>h1{
+
+font-size: 35px;
+width: 60%;
+padding-bottom: 15px;
+}
+
+.content>p{
+font-size: 18px;
+width: 70%;
+}
+
+.button-type{
+margin: 30px auto;
+
+}
+
+.button-type>a{
+ font-size: 20px;
+padding: 15px 17px;
+border: 1px solid;
+
+}
+
+.cardtwo{
+
+    display: flex;
+    justify-content:flex-start;
+    background-image: linear-gradient(#ffffff,#fafafa);
+    margin: 50px;
+
+
+    }
+
+    .contenttwo{
+
+       
+        margin: 50px;
+        text-align: left;
+    }
+    
+    .contenttwo>h1{
+    
+    font-size: 35px;
+    width: 60%;
+    padding-bottom: 15px;
+    }
+    
+    .contenttwo>p{
+    font-size: 18px;
+    width: 70%;
+    }
+    
+    .button-type{
+    margin: 30px auto;
+    
+    }
+    
+    .button-type>a{
+     font-size: 20px;
+    padding: 15px 17px;
+    border: 1px solid;
+    text-decoration: none;
+    color: black;
+    
+    }
+
+.Inspiration>h1{
+    font-size: 18px auto;
+
+}
